@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente faço faculdade de ciência da computação, no instituto federal IFMA campus Caxias (Ma)
 - 🌱 Estudando flutter, python, banco de dados...
-- ✔ basico de sistema operacional Linux, avançado em Windows
+- ✔  Intermediario em sistema operacional Linux, avançado em Windows
 
 <div align="center">
   <a href="https://github.com/MARIAMEDEIRO">
