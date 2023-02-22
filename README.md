@@ -1,8 +1,7 @@
 ### Oi, Seja bem vindo(a), ainda sou nova por aqui! 👋
 
-- 🔭 Atualmente faço faculdade de ciência da computação, no instituto federal IFMA campus Caxias (Ma)
-- 🌱 Estudando flutter, python, banco de dados...
-- ✔  Intermediario em sistema operacional Linux, avançado em Windows
+- 🔭 Estudante de ciência da computação, no instituto federal IFMA campus Caxias (Ma)
+- 🌱 Atualmente estudando python e web.
 
 <div align="center">
   <a href="https://github.com/MARIAMEDEIRO">
